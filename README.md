@@ -1,2 +1,7 @@
 # take-home-starter
-Technical Exercise
+
+### `cd react-js-starter/`
+
+### `npm install`
+
+### `npm start`
